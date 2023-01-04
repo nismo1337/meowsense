@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (OW2-Beta.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\includes.hpp(31,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\SDK.hpp(98,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\SDK.hpp(148,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\SDK.hpp(214,70): warning C4244: 'argument': conversion from 'DWORD64' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\SDK.hpp(242,70): warning C4244: 'argument': conversion from 'DWORD64' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\Overwatch.hpp(51,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\Overwatch.hpp(228,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\Overwatch.hpp(228,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\Overwatch.hpp(242,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\Overwatch.hpp(242,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\Overwatch.hpp(246,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\Overwatch.hpp(246,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\Overwatch.hpp(316,13): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'ULONGLONG'
+C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\main.cpp(24,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uint64_t'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1697 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OW2-Beta.vcxproj -> C:\Users\freja\Downloads\OWBeta_[unknowncheats.me]_\x64\Release\meowsense ow2.exe

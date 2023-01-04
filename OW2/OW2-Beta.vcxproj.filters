@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Src">
+      <UniqueIdentifier>{6687163b-8991-4611-b53d-d57368363728}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\SDK">
+      <UniqueIdentifier>{dba4f0f1-477c-4aed-a399-5b2b20ab2a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\Includes">
+      <UniqueIdentifier>{ee726fee-12e6-4241-95fa-6cfed4954859}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\etc">
+      <UniqueIdentifier>{def33387-2832-489e-9430-68614e1033e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\imgui">
+      <UniqueIdentifier>{e2d5e468-c96b-4c9c-854a-affbcc67eaef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\SDK\Config">
+      <UniqueIdentifier>{2551fff1-7564-48c0-a894-039dca76bcd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\SDK\Render">
+      <UniqueIdentifier>{43645f56-91af-4884-bd44-b545f3dfba3a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Fucking ImGui\imgui.cpp">
+      <Filter>Src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Fucking ImGui\imgui_demo.cpp">
+      <Filter>Src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Fucking ImGui\imgui_draw.cpp">
+      <Filter>Src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Fucking ImGui\imgui_impl_dx11.cpp">
+      <Filter>Src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Fucking ImGui\imgui_impl_win32.cpp">
+      <Filter>Src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Fucking ImGui\imgui_tables.cpp">
+      <Filter>Src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Fucking ImGui\imgui_widgets.cpp">
+      <Filter>Src\imgui</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SDK.hpp">
+      <Filter>Src\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="includes.hpp">
+      <Filter>Src\Includes</Filter>
+    </ClInclude>
+    <ClInclude Include="Xor.hpp">
+      <Filter>Src\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.hpp">
+      <Filter>Src\etc</Filter>
+    </ClInclude>
+    <ClInclude Include="offsets.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Overwatch.hpp">
+      <Filter>Src\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Target.hpp">
+      <Filter>Src\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Fucking ImGui\imconfig.h">
+      <Filter>Src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Fucking ImGui\imgui.h">
+      <Filter>Src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Fucking ImGui\imgui_impl_dx11.h">
+      <Filter>Src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Fucking ImGui\imgui_impl_win32.h">
+      <Filter>Src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Fucking ImGui\imgui_internal.h">
+      <Filter>Src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Fucking ImGui\imstb_rectpack.h">
+      <Filter>Src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Fucking ImGui\imstb_textedit.h">
+      <Filter>Src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Fucking ImGui\imstb_truetype.h">
+      <Filter>Src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.hpp">
+      <Filter>Src\SDK\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.hpp">
+      <Filter>Src\SDK\Render</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
