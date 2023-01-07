@@ -5,7 +5,9 @@ Meowsense is a free cheat for multiple different games,
 # Detection Statuses
 
 🟢: Undetected
+
 🟡: Use at your own risk
+
 🔴: Detected
 
 # OW2 (Overwatch 2) 🟡
